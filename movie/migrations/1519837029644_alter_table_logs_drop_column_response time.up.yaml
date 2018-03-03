@@ -1,3 +1,0 @@
-- args:
-    sql: ALTER TABLE "logs" DROP COLUMN "response time"
-  type: run_sql

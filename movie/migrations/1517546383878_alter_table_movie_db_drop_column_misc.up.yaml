@@ -1,3 +1,0 @@
-- args:
-    sql: ALTER TABLE "movie_db" DROP COLUMN "misc"
-  type: run_sql

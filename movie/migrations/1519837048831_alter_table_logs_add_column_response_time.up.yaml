@@ -1,3 +1,0 @@
-- args:
-    sql: ALTER TABLE "logs" ADD COLUMN "response_time" timestamptz NUll
-  type: run_sql

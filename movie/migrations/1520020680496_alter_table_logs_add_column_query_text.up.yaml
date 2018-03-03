@@ -1,4 +1,0 @@
-- args:
-    sql: ALTER TABLE "logs" ADD COLUMN "query_text" text NOT NULL DEFAULT 'Suggest
-      me a movie'
-  type: run_sql

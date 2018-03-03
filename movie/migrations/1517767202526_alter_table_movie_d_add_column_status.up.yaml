@@ -1,3 +1,0 @@
-- args:
-    sql: ALTER TABLE "movie_d" ADD COLUMN "status" text NOT NULL
-  type: run_sql
