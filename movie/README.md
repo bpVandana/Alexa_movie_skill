@@ -40,7 +40,7 @@ To link it with your Amazon Echo Device, go to your [Amazon developer console](h
 1. Create a new skill. Call it `Suggest Movie`. Give the invocation name as `suggest movie`. Click next.
 
 2. Add this intent schema
-
+```
 {
   "intents": [
     {
