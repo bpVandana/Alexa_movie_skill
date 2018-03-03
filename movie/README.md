@@ -27,7 +27,7 @@ This skill gets deployed instantly. Also, Hasura automatically generates SSL cer
 (Make sure you have [hasura-cli](https://docs.hasura.io/0.15/manual/install-hasura-cli.html))
 
 ```
-$ hasura quickstart bpvandana/alexa-yoda-bot
+$ hasura quickstart bpvandana/alexa_movie_skill
 $ cd alexa-yoda-bot
 $ git add . && git commit -m "Initial Commit"
 $ git push hasura master
@@ -76,7 +76,7 @@ suggestMovie suggest me a movie
 
 	Put the default URL as `https://bot.<cluster-name>.hasura-app.io/movies`. (Run `$ hasura cluster status` from root directory to know your cluster name).
 
-	**Note**: For quick testing, we have one skill service live at https://bot.dedication76.hasura-app.io/yoda_quotes. (This test service will work only if you have followed 1 and 2)
+	**Note**: For quick testing, we have one skill service live at https://bot.incipiently69.hasura-app.io/movies(This test service will work only if you have followed 1 and 2)
 
 	Click next.
 
