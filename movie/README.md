@@ -76,7 +76,7 @@ suggestMovie suggest me a movie
 
 	Put the default URL as `https://bot.<cluster-name>.hasura-app.io/movies`. (Run `$ hasura cluster status` from root directory to know your cluster name).
 
-	**Note**: For quick testing, we have one skill service live at https://bot.incipiently69.hasura-app.io/movies(This test service will work only if you have followed 1 and 2)
+	**Note**: For quick testing, we have one skill service live at https://bot.incipiently69.hasura-app.io/movie(This test service will work only if you have followed 1 and 2)
 
 	Click next.
 
